@@ -1,5 +1,3 @@
-import regex
-
 input = "168630-718098".split("-")
 
 possible_password_count = 0
